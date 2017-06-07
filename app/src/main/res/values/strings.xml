@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AddClient</string>
+    <string name="firstname">Prénom</string>
+    <string name="lastname">Nom</string>
+    <string name="city">Ville</string>
+    <string name="zipcode">Code postal</string>
+    <string name="address">Adresse</string>
+    <string name="cancel">Annuler</string>
+    <string name="save">Sauvegarder</string>
+    <string name="drawer_title">Formation Android</string>
+
+
+</resources>
